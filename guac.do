@@ -2,3 +2,4 @@
 
 
 gen lucia==":)"
+gen isa==":s"
